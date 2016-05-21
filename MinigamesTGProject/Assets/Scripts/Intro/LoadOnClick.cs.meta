@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f2400d20bd1c1ab48aa812bdb8b3ad28
+timeCreated: 1434764964
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - controllerSpawner: {fileID: 116552, guid: fb92b1b54a28d204eaf38ea191615471, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

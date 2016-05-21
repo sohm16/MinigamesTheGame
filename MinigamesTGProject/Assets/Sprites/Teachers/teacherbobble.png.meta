@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 0e2c353db7c3e594a97f55864c32da46
+timeCreated: 1433544822
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teacherbobble_0
+    21300002: teacherbobble_1
+    21300004: teacherbobble_2
+    21300006: teacherbobble_3
+    21300008: teacherbobble_4
+    21300010: teacherbobble_5
+    21300012: teacherbobble_6
+    21300014: teacherbobble_7
+    21300016: teacherbobble_8
+    21300018: teacherbobble_9
+    21300020: teacherbobble_10
+    21300022: teacherbobble_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: teacherbobble_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 5
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 6
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teacherbobble_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

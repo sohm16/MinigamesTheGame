@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Parachute\parachutePlayer2Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Parachute\parachutePlayerController.cs" Line="72" Column="3" />
+      <File FileName="Assets\Scripts\Parachute\parachuteCamera1Controller.cs" Line="12" Column="56" />
+      <File FileName="Assets\Scripts\Parachute\parachutePlayer2Controller.cs" Line="70" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

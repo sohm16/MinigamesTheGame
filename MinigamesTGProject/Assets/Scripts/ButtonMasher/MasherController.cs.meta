@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 665e136aa68b9604688b284343e0d80c
+timeCreated: 1433465617
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - p1Score: {fileID: 147216, guid: b61166503129d7243a21157adec6c7da, type: 2}
+  - p2Score: {fileID: 167220, guid: b61166503129d7243a21157adec6c7da, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
